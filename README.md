@@ -12,4 +12,4 @@
 
 # Time
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br><sub>Grazielle Café</sub>](https://github.com/graziellecafe)
+[<img loading="lazy" src="perfil.png" width=115><br><sub>Grazielle Café</sub>](https://github.com/graziellecafe)
